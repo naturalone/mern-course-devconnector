@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://nikita:1234@cluster0-gb5rr.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "sectok"
+  "jwtSecret": "sectok",
+  "githubClientId": "76cb579ab626786809d9",
+  "githubClientSecret": "cd059c193cded33a81bcc1131f647135964a8c8"
 }
